@@ -11,10 +11,10 @@
 #ifndef TraceModules_TraceModules_h
 #define TraceModules_TraceModules_h
 
-#import "TRCJobQueue.h"
-#import "TRCJob.h"
-#import "TRCJobQueueDelegate.h"
-#import "TRCJobDelegate.h"
+#import "TRCAppModule.h"
+#import "TRCAppModuleInterface.h"
+#import "TRCModule.h"
+#import "TRCModuleInterface.h"
 
 #endif
 
