@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'TraceModules_Example', :exclusive => true do
+  pod "TraceModules", :path => "../"
+end
+
+target 'TraceModules_Tests', :exclusive => true do
+  pod "TraceModules", :path => "../"
+
+  
+end
