@@ -1,0 +1,14 @@
+PODS:
+  - TraceModules (0.1.0)
+
+DEPENDENCIES:
+  - TraceModules (from `../`)
+
+EXTERNAL SOURCES:
+  TraceModules:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TraceModules: b66e63b6ebf1971c9e4115221ecdb90b14e8c07a
+
+COCOAPODS: 0.38.2
